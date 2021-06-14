@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marchenko-vs
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C, Python, Bash
+- 🌱 I’m currently learning C, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
