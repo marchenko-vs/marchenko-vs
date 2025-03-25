@@ -1,10 +1,23 @@
+### Links:
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/vladyslav-marchenko-5aab40280">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+### About me:
+
+Name: Vladyslav Marchenko
+
+Location: Vienna, Austria (CET, GMT+1)
+
+Bachelor of science in Software engineering (Bauman Moscow State Technical University 2020-2024)
+
+Master of science in Computer science (University of Vienna 2025-...)
+
+### :hammer_and_wrench: Languages and Tools:
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core" width="40" height="40"/>&nbsp;
