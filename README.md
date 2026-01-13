@@ -10,7 +10,7 @@
 
 Name: Vladyslav Marchenko
 
-Location: Vienna, Austria (CEST, UTC+2)
+Location: Vienna, Austria (CET, UTC+1)
 
 Bachelor of science in Software engineering (Bauman Moscow State Technical University 2020-2024)
 
